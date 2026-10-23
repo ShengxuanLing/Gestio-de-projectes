@@ -1,0 +1,17 @@
+Title,Status,Start,End,Labels,Rol,Predecesoras,Horas
+A - Mapear consumo por zona y entrevistar servicios UAB,En curso,2026-10-06,2026-10-21,critica,Analisis de datos,,87
+B - Recopilar dataset historico de consumo,Por hacer,2026-10-21,2026-11-07,critica,Analisis de datos,A,93
+C - Definir KPIs y umbrales de anomalia,Por hacer,2026-11-07,2026-11-15,critica,Analisis de datos,B,47
+D - Disenar arquitectura del sistema de sensores,Por hacer,2026-10-06,2026-10-14,con-holgura,Sensores y prototipo,,47
+E - Seleccionar y montar componentes,Por hacer,2026-10-14,2026-10-29,con-holgura,Sensores y prototipo,D,87
+F - Implementar lectura y filtrado de datos,Por hacer,2026-10-29,2026-11-13,con-holgura,Sensores y prototipo,E,87
+G - Implementar deteccion de fugas y anomalias,Por hacer,2026-11-15,2026-11-23,critica,Sensores y prototipo,C F,47
+H - Ensamblar y documentar el prototipo,Por hacer,2026-11-23,2026-12-02,critica,Sensores y prototipo,G,53
+I - Disenar estructura y storyboard de la web,Por hacer,2026-10-06,2026-10-14,con-holgura,Desarrollo web,,47
+J - Maquetar HTML/CSS responsive,Por hacer,2026-10-14,2026-10-28,con-holgura,Desarrollo web,I,80
+K - Visualizar datos (graficos de consumo),Por hacer,2026-11-07,2026-11-22,con-holgura,Desarrollo web,J B,87
+L - Integrar datos del prototipo en la web,Por hacer,2026-12-02,2026-12-10,critica,Desarrollo web,K H,47
+"M - Revisar, corregir y publicar",Por hacer,2026-12-10,2026-12-19,critica,Desarrollo web,L,47
+N - Redactar la memoria,Por hacer,2026-11-15,2026-11-29,con-holgura,Documentacion,C,80
+O - Campana de concienciacion,Por hacer,2026-11-29,2026-12-07,con-holgura,Documentacion,N,47
+P - Presentacion final y entrega,Por hacer,2026-12-19,2026-12-27,critica,Coordinacion,M N O,47
