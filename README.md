@@ -14,7 +14,12 @@ Reducir el consumo de agua del campus de la UAB y mejorar su gestión mediante t
 
 ## 2. Objetivo general
 
-Diseñar una propuesta de gestión inteligente del agua para el campus de la UAB, que combine un prototipo de monitorización con una página web informativa y de visualización de datos para fomentar la coincienca en los estudiantes.
+Este proyecto consiste en diseñar una propuesta de gestión inteligente del agua para el campus de la UAB. La idea es combinar dos cosas: por un lado, un prototipo de monitorización que mida cuánta agua se gasta en distintos puntos del campus (baños, fuentes, zonas verdes, cafeterías…) y nos avise si algo va mal, como una fuga o un consumo raro que no tiene sentido. Por otro lado, una página web informativa donde cualquiera pueda ver esos datos de forma clara, con gráficos fáciles de entender y sin tener que ser un experto.
+
+Lo que más nos importa es que no se quede solo en “poner sensores y ya”. Mucha gente en la universidad gasta agua sin darse cuenta de cuánta es en realidad, y si no lo ves, no te lo planteas. Por eso la web sirve para que los estudiantes vean el consumo real del campus, lo comparen entre edificios o semanas y se den cuenta de que pequeños gestos, como cerrar bien un grifo o avisar de una fuga, cuentan más de lo que parece. Además, la web puede incluir consejos rápidos y pequeños retos para que la gente se anime a participar, en vez de ser solo una página llena de números.
+
+Con esto buscamos dos objetivos a la vez: que la universidad pueda controlar y ahorrar mejor el agua, y que los estudiantes se conciencien y se sientan parte del cambio. Al final, un campus que se presenta como sostenible tiene que demostrarlo con hechos, y creemos que enseñar los datos de forma abierta es un buen primer paso.
+
 
 ## 3. Objetivos específicos
 
