@@ -1,4 +1,4 @@
-# Trabajo_Gesti-projectes
+# Trabajo_Gestio-projectes
 Trabajo en grupo sobre una gestión inteligente del agua en el campus UAB.
 
 i) elegir el enfoque (UAB/BARCELONA) y el tema sobre el que desea trabajar (agua, residuos, energía, ....)
