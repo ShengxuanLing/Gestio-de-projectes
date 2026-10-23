@@ -1,6 +1,8 @@
 # Trabajo_Gestio-de-projectes
 Trabajo en grupo sobre una gestión inteligente del agua en el campus UAB.
 
+Hecho por: Shengxuan Ling, Miquel Pau Yon, Albert Navarro, Arnau París.
+
 i) elegir el enfoque (UAB/BARCELONA) y el tema sobre el que desea trabajar (agua, residuos, energía, ....)
 ii)  Crear una repository en github
 iii) Explicar en el file readme brevemente cuáles son los objetivos y finalidades del proyecto, los criterios mínimo de éxito (e.g. página web y prototipo, y gestionar los roles).
